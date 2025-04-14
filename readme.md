@@ -80,7 +80,7 @@ docker build -t resume-classifier .
 # Run container
 docker run -p 8000:8000 resume-classifier
 
-
+```
 👨‍💻 Author
 Abishek Ravichandiran
 Aspiring ML Engineer | CSE + Business Analytics
@@ -89,4 +89,4 @@ Aspiring ML Engineer | CSE + Business Analytics
 
 ⭐️ Show Your Support
 If you found this useful, please ⭐️ the repo and share it!
-
+s
