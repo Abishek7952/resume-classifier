@@ -1,3 +1,5 @@
+![Resume Classifier Banner](banner.png)
+
 # 🧠 Resume Classifier – ML Web App (FastAPI + Docker + Render)
 
 This project is a **machine learning-powered web application** that predicts the **job-fit category** of uploaded resumes (PDFs) using natural language processing (NLP).
